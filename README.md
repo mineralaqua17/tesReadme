@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are from C2 FSW x AND Tes</h1>
+<h1 align="center">Hi 👋, We are from C2 FSW x AND</h1>
 <h3 align="center">We are making project app called Tiketku</h3>
 
 - 🔭 We currently studying on Binar Academy **Tiketku**
